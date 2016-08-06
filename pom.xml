@@ -17,7 +17,7 @@
         <payara.hostname>localhost</payara.hostname>
         <payara.adminPort>4848</payara.adminPort>
         <payara.username>admin</payara.username>
-        <payara.password>admin</payara.password>
+        <payara.password>hxdev.cn</payara.password>
     </properties>
     
     <dependencies>
